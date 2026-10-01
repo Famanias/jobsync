@@ -14,7 +14,7 @@
     "eval:view": "promptfoo view"
   },
   "devDependencies": {
-    "promptfoo": "^0.121.18",
+    "promptfoo": "^0.123.1",
     "tsx": "^4.22.4"
   },
   "overrides": {
@@ -38,6 +38,6 @@
     "ws": ">=8.21.0 <9",
     "esbuild": ">=0.28.1 <0.29",
     "mongoose": ">=9.7.2 <10",
-    "adm-zip": ">=0.6.0 <0.7"
+    "adm-zip": ">=0.6.1 <0.7"
   }
 }
